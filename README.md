@@ -13,8 +13,9 @@ Walk up, press the buttons, pay with cash or card, watch your can drop, then rea
 ![ESX](https://img.shields.io/badge/ESX-supported-0984e3?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
-<!-- Replace with your own screenshots / GIFs -->
-<!-- ![preview](https://user-images.githubusercontent.com/.../preview.gif) -->
+<img src="docs/images/preview.gif" alt="eCola machine: selecting a drink, tapping a card, the can dropping into the tray and the flap opening" width="820">
+
+<sub>The eCola machine. Snacks, coffee, water, Sprunk and the retro cigarette machine each have their own interface.</sub>
 
 </div>
 
@@ -288,6 +289,7 @@ kd-vendingmachine/
 ├── bridge/          framework abstraction (client + server)
 ├── client/          interaction, animation, placements, main flow
 ├── config/          config.lua (shared) · server.lua (server only)
+├── docs/images/     README preview GIF (not loaded by the game)
 ├── install/         item definitions for each inventory
 ├── locales/         en, da
 ├── server/          purchase validation, stock
