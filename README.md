@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥤 kd-vendingmachine
+# 🥤 Komadev.dk - Vendingmachine
 
 **Immersive, themed vending machines for FiveM. Every machine gets its own realistic interface.**
 
